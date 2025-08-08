@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VanillaStyleDiplomacy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+5eb4e21ac4ef039972ce5aa9d76b3902fa789b87")]
 [assembly: System.Reflection.AssemblyProductAttribute("VanillaStyleDiplomacy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VanillaStyleDiplomacy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
