@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FLvRrvGbp4=",
+  "success": true,
+  "projectFilePath": "/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/VanillaStyleDiplomacy.csproj",
+  "expectedPackageFiles": [
+    "/home/kay/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0-preview.2/microsoft.netframework.referenceassemblies.1.0.0-preview.2.nupkg.sha512",
+    "/home/kay/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.0-preview.2/microsoft.netframework.referenceassemblies.net461.1.0.0-preview.2.nupkg.sha512",
+    "/home/kay/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.0-preview.2/microsoft.netframework.referenceassemblies.net472.1.0.0-preview.2.nupkg.sha512"
+  ],
+  "logs": []
+}

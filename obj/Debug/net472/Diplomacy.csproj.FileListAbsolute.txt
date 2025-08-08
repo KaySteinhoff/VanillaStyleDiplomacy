@@ -1,0 +1,10 @@
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/bin/Debug/net472/Diplomacy.dll
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/bin/Debug/net472/Diplomacy.pdb
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.csproj.AssemblyReference.cache
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.AssemblyInfoInputs.cache
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.AssemblyInfo.cs
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.csproj.CoreCompileInputs.cache
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.csproj.Up2Date
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.dll
+/run/media/kay/1TB Space/MountAndBlade2Mods/Diplomacy/Diplomacy/obj/Debug/net472/Diplomacy.pdb
