@@ -12,7 +12,7 @@ using TaleWorlds.CampaignSystem.Settlements;
 using TaleWorlds.CampaignSystem.Settlements.Locations;
 using TaleWorlds.Core;
 using TaleWorlds.Localization;
-using VanillaStyleDiplomacy.Logging;
+using VanillaStyleDiplomacy.Managers;
 
 namespace VanillaStyleDiplomacy.Actions
 {

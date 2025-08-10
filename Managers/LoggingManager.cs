@@ -4,7 +4,7 @@ using System.Text;
 using TaleWorlds.Library;
 using VanillaStyleDiplomacy.Helpers;
 
-namespace VanillaStyleDiplomacy.Logging
+namespace VanillaStyleDiplomacy.Managers
 {
     public class LoggingManager
     {

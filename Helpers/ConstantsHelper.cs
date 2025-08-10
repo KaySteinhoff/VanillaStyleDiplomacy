@@ -3,7 +3,7 @@ namespace VanillaStyleDiplomacy.Helpers
     public static class ConstantsHelper
     {
         private static string moduleFolder = "../../Modules/VanillaStyleDiplomacy";
-        private static string defaultConfigFile =   "# Config options for the VanillaStyleDiplomacy mod\n" +
+        private static string defaultConfigFile = "# Config options for the VanillaStyleDiplomacy mod\n" +
                                                     "# Options are to be defined as follows:\n" +
                                                     "# [option type] [option name]=[option value]\n" +
                                                     "# Note that at least one whitespace character(space, tab) between [option type] and [option name] is required where as whitespace characters between [option name], the equals sign and [option value] are optional\n" +
@@ -24,7 +24,8 @@ namespace VanillaStyleDiplomacy.Helpers
                                                     "int ExecutionRelationPenaltyAllies=-10\n" +
                                                     "int ExecutionRelationPenaltyNeutral=0\n" +
                                                     "int ExecutionRelationPenaltyVictimEnemies=15\n" +
-                                                    "int ExecutionRelationPenaltyKillerEnemies=-15";
+                                                    "int ExecutionRelationPenaltyKillerEnemies=-15\n" +
+                                                    "bool EnableAllianceFeature=true\n";
         private static string name = typeof(VanillaStyleDiplomacyModule).Namespace;
         private static string version = typeof(VanillaStyleDiplomacyModule).Assembly.GetName().Version?.ToString(3);
 

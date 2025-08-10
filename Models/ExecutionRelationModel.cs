@@ -1,7 +1,6 @@
 using TaleWorlds.CampaignSystem;
-using TaleWorlds.MountAndBlade;
 using VanillaStyleDiplomacy.Config;
-using VanillaStyleDiplomacy.Logging;
+using VanillaStyleDiplomacy.Managers;
 
 namespace VanillaStyleDiplomacy.Models
 {

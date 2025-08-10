@@ -111,3 +111,11 @@ This way you won't mess with any other outputs and will always have a clear over
 - Initial publication
 - Optional patch for more sensible execution logic
   - Reputation loss/gain depends on various elements listed here in decreasing value order: Family, Ally(in the same Kingdom), War status
+
+## v 0.0.2
+
+- Added update checks and downloads (Game has to be manually restarted afterwards)
+- Added patch notes after first initial load after update
+- Added "Propose alliance" conversation option
+  - Only active should both the player and the agent be Kingdom leaders
+  - Will always fail for now()

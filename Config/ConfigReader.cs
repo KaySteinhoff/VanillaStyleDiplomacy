@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using TaleWorlds.CampaignSystem.Actions;
 using VanillaStyleDiplomacy.Extensions;
 using VanillaStyleDiplomacy.Helpers;
-using VanillaStyleDiplomacy.Logging;
+using VanillaStyleDiplomacy.Managers;
 
 namespace VanillaStyleDiplomacy.Config
 {

@@ -1,5 +1,5 @@
 using System;
-using VanillaStyleDiplomacy.Logging;
+using VanillaStyleDiplomacy.Managers;
 
 namespace VanillaStyleDiplomacy.Extensions
 {

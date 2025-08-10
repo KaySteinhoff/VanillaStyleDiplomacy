@@ -1,7 +1,7 @@
 using System;
 using System.Linq.Expressions;
 using System.Reflection;
-using VanillaStyleDiplomacy.Logging;
+using VanillaStyleDiplomacy.Managers;
 
 namespace VanillaStyleDiplomacy.Helpers
 {
